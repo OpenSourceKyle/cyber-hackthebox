@@ -8,5 +8,5 @@ ShowToc = true
 TocOpen = true
 
 [params.homeInfoParams]
-Title = "Bookmarks"
+Title = "Hack The Box Cheatsheet"
 Content = "A curated index of tools, docs, cheatsheets, and references for automation, development, security, and penetration testing"
