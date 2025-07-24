@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Cyber Bookmarks"
+title = "Hack The Box: Cheatsheet"
 theme = "PaperMod"
 
 [params]
@@ -9,4 +9,4 @@ TocOpen = true
 
 [params.homeInfoParams]
 Title = "Bookmarks"
-Content = "Useful cyber security and general computer bookmarks"
+Content = "A curated index of tools, docs, cheatsheets, and references for automation, development, security, and penetration testing"
